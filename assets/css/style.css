@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+.contenitore-immagine{
+    height:80px;
+    background-image: url('../Immagini/pattern.png');
+    background-repeat: repeat;
+    background-size: cover;
+    background-size: 20%;
+    background-color: aqua;
+  }
+
+#Logo{
+  width: 10%;
+  height: auto;
+  margin-left: 10%;
+  margin-top: 40px;
+}
