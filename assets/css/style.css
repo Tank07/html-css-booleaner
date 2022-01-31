@@ -1,5 +1,5 @@
-.contenitore-immagine{
-    height:80px;
+.first-image{
+    height: 90px;
     background-image: url('../Immagini/pattern.png');
     background-repeat: repeat;
     background-size: cover;
@@ -7,9 +7,55 @@
     background-color: aqua;
   }
 
-  #Logo{
-    width: 10%;
+#logo{
+    width: 14%;
     height: auto;
-    margin-left: 10%;
-    margin-top: 40px;
+    margin-left: 1%;
+    margin-top: 2.5%;
+ }
+
+ h6{
+   margin-top: auto;
+   margin-bottom: 5px;
+ }
+
+ h4{
+  margin-top: auto;
+  margin-bottom: 5px;
+}
+
+h1{
+  margin-bottom: 5px;
+  font-size: 35px;
+}
+
+#blu{
+  color: blue;
+}
+
+.evidence{
+  background-color: yellow;
+}
+
+ th{
+   color: white;
+   background-color:darkcyan;
+ }
+
+.text-image1{
+  background-image: url("../Immagini/monitor.jpg");
+  background-repeat: no-repeat;
+  height: 208px;
+  width: 312px;
+ }
+
+ .text-image2{
+  background-image: url("../Immagini/graph.jpg");
+  background-repeat: no-repeat;
+  height: 208px;
+  width: 312px;
+ }
+
+ h3{
+   color: aliceblue;
  }
