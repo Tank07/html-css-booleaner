@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+main,
+footer{
+  width: 80%;
+  margin: auto;
+}
+
 .first-image{
     height: 90px;
     background-image: url('../Immagini/pattern.png');
