@@ -61,6 +61,10 @@ h1{
   width: 20%;
 }
 
+tr:nth-child(odd) {
+  background: lightskyblue;
+}
+
 table{
   text-align: left;
   border-spacing: 0;
